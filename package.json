@@ -1,0 +1,20 @@
+{
+  "name": "hamrah-chele",
+  "version": "1.0.0",
+  "private": true,
+  "description": "همراه چله - برنامه پیگیری عادت‌ها و ساختن چله‌های شخصی",
+  "scripts": {
+    "cap:add:android": "cap add android",
+    "cap:sync": "cap sync android",
+    "cap:open:android": "cap open android",
+    "android:debug": "cd android && gradlew assembleDebug",
+    "android:release": "cd android && gradlew assembleRelease"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.6.9",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}
