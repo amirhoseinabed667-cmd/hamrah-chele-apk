@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">همراه چله</string>
-    <string name="title_activity_main">همراه چله</string>
-    <string name="package_name">com.amirhosein.hamrahchele</string>
-    <string name="custom_url_scheme">com.amirhosein.hamrahchele</string>
-</resources>
