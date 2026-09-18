@@ -1,8 +1,0 @@
-{
-  "appId": "com.amirhosein.hamrahchele",
-  "appName": "همراه چله",
-  "webDir": "www",
-  "server": {
-    "androidScheme": "https"
-  }
-}
